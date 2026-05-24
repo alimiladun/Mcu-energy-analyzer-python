@@ -1,0 +1,1 @@
+A command-line Python tool that reads MCU energy mode performance data from a CSV file, calculates power consumption (P = I × V × f), and outputs a formatted comparison report for a selected energy mode and clock frequency. Also generates and exports a matplotlib power vs. frequency plot as a PDF.
